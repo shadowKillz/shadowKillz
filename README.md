@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shadowKillz
-- 👀 I’m interested in ... computer vision and image processing
-- 🌱 I’m currently learning ... object segmentation using tensorflow
+- 👀 I’m interested in ... computer vision and image processing, manufacturing and automation, programming and web development
+- 🌱 I’m currently learning ... Machine learning, and web dev.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dulzabdul@gmail.com
 
